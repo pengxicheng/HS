@@ -1,0 +1,67 @@
+8
+
+dir
+15061
+https://peng_xc@192.168.40.251:18181/svn/coding/app/IOS/HengStars/Pods
+https://peng_xc@192.168.40.251:18181/svn/coding
+
+
+
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a770151-4c53-d547-a33a-945e3f6a713f
+
+Pods.xcodeproj
+dir
+
+MBProgressHUD
+dir
+
+Target Support Files
+dir
+
+UMengSocial
+dir
+
+SDWebImage
+dir
+
+Headers
+dir
+
+Local Podspecs
+dir
+
+Manifest.lock
+file
+
+
+
+
+2016-05-09T09:23:09.000000Z
+c347a87653db8aab195172a71e8da30f
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+
+AFNetworking
+dir
+
+UMengAnalytics-NO-IDFA
+dir
+

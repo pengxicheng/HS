@@ -1,0 +1,81 @@
+8
+
+dir
+15061
+https://peng_xc@192.168.40.251:18181/svn/coding/app/IOS/HengStars/HengStars/Rong_Cloud_iOS_IMKit_SDK_v2_4_9_dev
+https://peng_xc@192.168.40.251:18181/svn/coding
+
+
+
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a770151-4c53-d547-a33a-945e3f6a713f
+
+RongIMKit.framework
+dir
+
+release_notes_ios.txt
+file
+
+
+
+
+2016-05-09T09:23:18.000000Z
+51d57ae44bd6d233135691335497b374
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+has-props
+
+RongCloud.bundle
+dir
+
+en.lproj
+dir
+
+zh-Hans.lproj
+dir
+
+Emoji.plist
+file
+
+
+
+
+2016-05-09T09:23:18.000000Z
+2f7828eb72be529674d91dc40bec1f9e
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+
+libopencore-amrnb.a
+file
+
+
+
+
+2016-05-09T09:23:18.000000Z
+f8dbd9f1b82ab41a603fce4d1a87ec57
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+has-props
+
+RongIMLib.framework
+dir
+

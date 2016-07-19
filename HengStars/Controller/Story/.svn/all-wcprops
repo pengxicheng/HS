@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/coding/!svn/ver/14926/app/IOS/HengStars/HengStars/Controller/Story
+END
+StoryVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/Controller/Story/StoryVC.h
+END
+StoryTypeVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/coding/!svn/ver/14792/app/IOS/HengStars/HengStars/Controller/Story/StoryTypeVC.h
+END
+StoryDetailVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/coding/!svn/ver/14481/app/IOS/HengStars/HengStars/Controller/Story/StoryDetailVC.h
+END
+StoryVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/coding/!svn/ver/14926/app/IOS/HengStars/HengStars/Controller/Story/StoryVC.m
+END
+StoryTypeVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/coding/!svn/ver/14926/app/IOS/HengStars/HengStars/Controller/Story/StoryTypeVC.m
+END
+StoryDetailVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/coding/!svn/ver/14926/app/IOS/HengStars/HengStars/Controller/Story/StoryDetailVC.m
+END

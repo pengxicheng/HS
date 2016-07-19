@@ -1,0 +1,115 @@
+8
+
+dir
+15061
+https://peng_xc@192.168.40.251:18181/svn/coding/app/IOS/HengStars/HengStars/Controller/Licai
+https://peng_xc@192.168.40.251:18181/svn/coding
+
+
+
+2016-06-03T09:06:16.336444Z
+15061
+peng_xc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a770151-4c53-d547-a33a-945e3f6a713f
+
+LicaiVC.h
+file
+
+
+
+
+2016-05-09T09:23:11.000000Z
+e6524fb664155f9e71d36e242aa0df63
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+
+InverstFA
+dir
+
+LicaiDetailVC.h
+file
+
+
+
+
+2016-05-09T09:23:11.000000Z
+3afe2368c9ed3831472cfc7764e8fe31
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+
+LicaiVC.m
+file
+
+
+
+
+2016-05-27T02:39:04.000000Z
+201603509eab431abef04ad8dbc6e414
+2016-05-27T09:51:45.746464Z
+14926
+peng_xc
+
+LicaiDetailVC.m
+file
+
+
+
+
+2016-05-27T04:26:22.000000Z
+4bf96abad2e4f5908469c953807f36d7
+2016-05-27T09:51:45.746464Z
+14926
+peng_xc
+
+InverstVC.h
+file
+
+
+
+
+2016-05-27T02:29:20.000000Z
+fd1dbcf6ac9009f808362018535e7fcb
+2016-05-27T09:51:45.746464Z
+14926
+peng_xc
+
+InverstRecord
+dir
+
+Inverst
+dir
+
+InverstQA
+dir
+
+InverstDetail
+dir
+
+InverstVC.m
+file
+
+
+
+
+2016-05-31T01:17:26.000000Z
+c4cbd4c7fa46261249ff2f88533dbfa3
+2016-06-02T07:22:54.057293Z
+15039
+peng_xc
+

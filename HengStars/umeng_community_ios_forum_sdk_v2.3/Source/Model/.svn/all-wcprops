@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model
+END
+UMComLocationModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComLocationModel.h
+END
+UMComPrivateMessage+UMComManagedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComPrivateMessage+UMComManagedObject.h
+END
+UMComTopicType+UMComManagedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComTopicType+UMComManagedObject.h
+END
+UMComAlbum.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComAlbum.h
+END
+UMComImageUrl+CoreDataProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComImageUrl+CoreDataProperties.h
+END
+UMComUnReadNoticeModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComUnReadNoticeModel.h
+END
+UMComMedal+UMComManagedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComMedal+UMComManagedObject.h
+END
+UMComComment.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComComment.h
+END
+UMComImageUrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComImageUrl.h
+END
+UMComPrivateLetter+UMComManagedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComPrivateLetter+UMComManagedObject.h
+END
+UMComTopicType.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComTopicType.h
+END
+UMComMedal.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComMedal.h
+END
+UMComManagedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComManagedObject.h
+END
+UMComImageUrl+UMComManagedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComImageUrl+UMComManagedObject.h
+END
+UMComPrivateLetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComPrivateLetter.h
+END
+UMComUser+UMComManagedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComUser+UMComManagedObject.h
+END
+UMComTopic+UMComManagedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComTopic+UMComManagedObject.h
+END
+UMComFeed.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComFeed.h
+END
+UMComLike+UMComManagedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComLike+UMComManagedObject.h
+END
+UMComNotification+UMComManagedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComNotification+UMComManagedObject.h
+END
+UMComPrivateMessage+CoreDataProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComPrivateMessage+CoreDataProperties.h
+END
+UMComMedal+CoreDataProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComMedal+CoreDataProperties.h
+END
+UMComUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComUser.h
+END
+UMComTopic.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComTopic.h
+END
+UMComPrivateMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComPrivateMessage.h
+END
+UMComAlbum+UMComManagedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComAlbum+UMComManagedObject.h
+END
+UMComComment+UMComManagedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComComment+UMComManagedObject.h
+END
+UMComFeed+UMComManagedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComFeed+UMComManagedObject.h
+END
+UMComLike.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComLike.h
+END
+UMComPrivateLetter+CoreDataProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComPrivateLetter+CoreDataProperties.h
+END
+UMComNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Model/UMComNotification.h
+END

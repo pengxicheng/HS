@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Login
+END
+UMComLoginManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Login/UMComLoginManager.m
+END
+UMComLoginViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Login/UMComLoginViewController.m
+END
+UMComAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Login/UMComAction.h
+END
+UMComAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Login/UMComAction.m
+END
+UMComLoginViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Login/UMComLoginViewController.xib
+END
+UMComUMengLoginHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Login/UMComUMengLoginHandler.h
+END
+UMComLoginDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Login/UMComLoginDelegate.h
+END
+UMComLoginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Login/UMComLoginManager.h
+END
+UMComLoginViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Login/UMComLoginViewController.h
+END
+UMComUMengLoginHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/coding/!svn/ver/14351/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Source/Login/UMComUMengLoginHandler.m
+END

@@ -1,0 +1,60 @@
+8
+
+dir
+15061
+https://peng_xc@192.168.40.251:18181/svn/coding/app/IOS/HengStars/Pods/UMengSocial/Umeng_SDK_Social_iOS_ARM64_4.4/UMSocial_Sdk_Extra_Frameworks/Facebook/FBSDKShareKit.framework
+https://peng_xc@192.168.40.251:18181/svn/coding
+
+
+
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a770151-4c53-d547-a33a-945e3f6a713f
+
+FBSDKShareKit
+file
+
+
+
+
+2016-05-09T09:22:57.000000Z
+ab18fb22e1763d49d2a1a2f2f740a716
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+has-props
+
+Info.plist
+file
+
+
+
+
+2016-05-09T09:22:58.000000Z
+bf4e6d61b7eb4b69a222f6a6fa038f96
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+has-props
+
+Modules
+dir
+
+Headers
+dir
+

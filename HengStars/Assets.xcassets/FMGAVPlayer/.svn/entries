@@ -1,0 +1,83 @@
+8
+
+dir
+15061
+https://peng_xc@192.168.40.251:18181/svn/coding/app/IOS/HengStars/HengStars/Assets.xcassets/FMGAVPlayer
+https://peng_xc@192.168.40.251:18181/svn/coding
+
+
+
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a770151-4c53-d547-a33a-945e3f6a713f
+
+thumbImage.imageset
+dir
+
+full_pause_btn_hl.imageset
+dir
+
+full_minimize_btn_hl.imageset
+dir
+
+full_play_btn.imageset
+dir
+
+bg_media_default.imageset
+dir
+
+mini_launchFullScreen_btn_hl.imageset
+dir
+
+full_pause_btn.imageset
+dir
+
+MinimumTrackImage.imageset
+dir
+
+MaximumTrackImage.imageset
+dir
+
+full_minimize_btn.imageset
+dir
+
+Contents.json
+file
+
+
+
+
+2016-05-09T09:23:19.000000Z
+31cc68f34934a99c0b0c1bebde56309c
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+has-props
+
+mini_launchFullScreen_btn.imageset
+dir
+
+full_play_btn_hl.imageset
+dir
+
+fast_back.imageset
+dir
+
+fast_forward.imageset
+dir
+

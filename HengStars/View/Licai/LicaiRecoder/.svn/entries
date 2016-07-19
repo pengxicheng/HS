@@ -1,0 +1,76 @@
+8
+
+dir
+15061
+https://peng_xc@192.168.40.251:18181/svn/coding/app/IOS/HengStars/HengStars/View/Licai/LicaiRecoder
+https://peng_xc@192.168.40.251:18181/svn/coding
+
+
+
+2016-06-03T09:06:16.336444Z
+15061
+peng_xc
+
+
+svn:special svn:externals svn:needs-lock
+
+LicaiRecodeHeaderView.m
+file
+
+
+
+
+2016-06-03T05:58:23.000000Z
+224c1bd3d957b386593f9fbb605c0f54
+2016-06-03T09:06:16.336444Z
+15061
+peng_xc
+
+RecoderCell.xib
+file
+
+
+
+
+2016-06-03T05:44:58.000000Z
+d809d8fcd4fe2abb12f6949478712704
+2016-06-03T09:06:16.336444Z
+15061
+peng_xc
+
+RecoderCell.h
+file
+
+
+
+
+2016-06-03T01:46:29.000000Z
+9e450b3e9ff75c2654866a2a91946b08
+2016-06-03T09:06:16.336444Z
+15061
+peng_xc
+
+LicaiRecodeHeaderView.h
+file
+
+
+
+
+2016-06-02T08:01:28.000000Z
+55deaa791f7e4b37e78d04479aa5cd7a
+2016-06-03T09:06:16.336444Z
+15061
+peng_xc
+
+RecoderCell.m
+file
+
+
+
+
+2016-06-03T01:46:29.000000Z
+37c652e45e1c623c666ad2d4ad552978
+2016-06-03T09:06:16.336444Z
+15061
+peng_xc
+

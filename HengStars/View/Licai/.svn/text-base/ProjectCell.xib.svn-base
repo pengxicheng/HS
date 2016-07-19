@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="ProjectCell" id="KGk-i7-Jjw" customClass="ProjectCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="190"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="189"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="axC-dh-eBU">
+                        <rect key="frame" x="9" y="3" width="302" height="177"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="hunyin.png" translatesAutoresizingMaskIntoConstraints="NO" id="fL3-Aq-6xj">
+                                <rect key="frame" x="0.0" y="0.0" width="302" height="132"/>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CKs-fU-VqZ">
+                                <rect key="frame" x="0.0" y="132" width="302" height="45"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="主演：田雷、张萌、纪宇、苗洛依等" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Z65-Yl-xl3">
+                                        <rect key="frame" x="10" y="8" width="192" height="30"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="30" id="v0C-SP-slp"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="italicSystem" pointSize="12"/>
+                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tHQ-uV-6fa">
+                                        <rect key="frame" x="212" y="8" width="80" height="30"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="30" id="ap8-7V-15w"/>
+                                            <constraint firstAttribute="width" constant="80" id="gcl-ga-my2"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                        <state key="normal" title="项目详情" backgroundImage="anniu_changgui.png"/>
+                                        <state key="disabled" backgroundImage="anniu_bukexuan.png"/>
+                                        <state key="highlighted" backgroundImage="anniu_xuanzhong.png"/>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstItem="tHQ-uV-6fa" firstAttribute="leading" secondItem="Z65-Yl-xl3" secondAttribute="trailing" constant="10" id="0MR-wW-Avb"/>
+                                    <constraint firstAttribute="trailing" secondItem="tHQ-uV-6fa" secondAttribute="trailing" constant="10" id="1Cg-xn-djI"/>
+                                    <constraint firstAttribute="height" constant="45" id="8KV-Cq-TmX"/>
+                                    <constraint firstItem="tHQ-uV-6fa" firstAttribute="centerY" secondItem="CKs-fU-VqZ" secondAttribute="centerY" id="IaY-Pj-GMK"/>
+                                    <constraint firstItem="Z65-Yl-xl3" firstAttribute="leading" secondItem="CKs-fU-VqZ" secondAttribute="leading" constant="10" id="QVt-sb-zG1"/>
+                                    <constraint firstItem="Z65-Yl-xl3" firstAttribute="centerY" secondItem="CKs-fU-VqZ" secondAttribute="centerY" id="i8n-b1-bVp"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="fL3-Aq-6xj" secondAttribute="trailing" id="5pk-o1-eQy"/>
+                            <constraint firstAttribute="trailing" secondItem="CKs-fU-VqZ" secondAttribute="trailing" id="CzB-5e-P3h"/>
+                            <constraint firstItem="CKs-fU-VqZ" firstAttribute="leading" secondItem="axC-dh-eBU" secondAttribute="leading" id="WNC-em-zOp"/>
+                            <constraint firstAttribute="bottom" secondItem="CKs-fU-VqZ" secondAttribute="bottom" id="X43-6S-TYM"/>
+                            <constraint firstItem="fL3-Aq-6xj" firstAttribute="top" secondItem="axC-dh-eBU" secondAttribute="top" id="cbn-SI-ozh"/>
+                            <constraint firstItem="fL3-Aq-6xj" firstAttribute="leading" secondItem="axC-dh-eBU" secondAttribute="leading" id="mzH-XS-LVE"/>
+                            <constraint firstItem="CKs-fU-VqZ" firstAttribute="top" secondItem="fL3-Aq-6xj" secondAttribute="bottom" id="r3F-Rt-UlY"/>
+                        </constraints>
+                    </view>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="biaoqian.png" translatesAutoresizingMaskIntoConstraints="NO" id="VyF-RJ-AUo">
+                        <rect key="frame" x="7" y="1" width="80" height="75"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="76" id="KqW-ka-DiG"/>
+                            <constraint firstAttribute="width" secondItem="VyF-RJ-AUo" secondAttribute="height" multiplier="76:71" id="jDA-xx-TJH"/>
+                            <constraint firstAttribute="height" constant="71" id="xem-yn-ggJ"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="KqW-ka-DiG"/>
+                                <exclude reference="xem-yn-ggJ"/>
+                            </mask>
+                        </variation>
+                    </imageView>
+                </subviews>
+                <color key="backgroundColor" red="0.94901960784313721" green="0.94901960784313721" blue="0.94901960784313721" alpha="1" colorSpace="calibratedRGB"/>
+                <constraints>
+                    <constraint firstItem="axC-dh-eBU" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="3" id="4bt-7m-hYm"/>
+                    <constraint firstAttribute="bottom" secondItem="axC-dh-eBU" secondAttribute="bottom" constant="9" id="4gh-cM-zMe"/>
+                    <constraint firstItem="axC-dh-eBU" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="9" id="BND-nJ-kJs"/>
+                    <constraint firstItem="VyF-RJ-AUo" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="1" id="Ccx-um-jiV"/>
+                    <constraint firstItem="VyF-RJ-AUo" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="7" id="xWP-P2-FcR"/>
+                    <constraint firstAttribute="trailing" secondItem="axC-dh-eBU" secondAttribute="trailing" constant="9" id="ySN-jt-P8v"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="actorLabel" destination="Z65-Yl-xl3" id="iIF-hU-sGt"/>
+                <outlet property="bgView" destination="axC-dh-eBU" id="A9Q-Oh-tBS"/>
+                <outlet property="detailBtn" destination="tHQ-uV-6fa" id="XAU-Dx-mi7"/>
+                <outlet property="projectImage" destination="fL3-Aq-6xj" id="bDg-ek-Fj3"/>
+                <outlet property="stateImage" destination="VyF-RJ-AUo" id="Iht-sK-azn"/>
+            </connections>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="anniu_bukexuan.png" width="80" height="30"/>
+        <image name="anniu_changgui.png" width="80" height="30"/>
+        <image name="anniu_xuanzhong.png" width="80" height="30"/>
+        <image name="biaoqian.png" width="76" height="75"/>
+        <image name="hunyin.png" width="299" height="129"/>
+    </resources>
+</document>

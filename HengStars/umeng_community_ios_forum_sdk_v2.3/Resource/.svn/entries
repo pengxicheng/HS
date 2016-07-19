@@ -1,0 +1,71 @@
+8
+
+dir
+15061
+https://peng_xc@192.168.40.251:18181/svn/coding/app/IOS/HengStars/HengStars/umeng_community_ios_forum_sdk_v2.3/Resource
+https://peng_xc@192.168.40.251:18181/svn/coding
+
+
+
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a770151-4c53-d547-a33a-945e3f6a713f
+
+.xccurrentversion
+file
+
+
+
+
+2016-05-09T09:23:11.000000Z
+886aab7a8c21dda021583725849a24a2
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+
+FZLanTingHei-L-GBK-M.TTF
+file
+
+
+
+
+2016-05-09T09:23:11.000000Z
+65a5b2842eb620e552053c11a85ac68c
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+has-props
+
+UMComModel.xcdatamodel
+dir
+
+UMComSDKResources.bundle
+dir
+
+UMCommunityStrings.strings
+file
+
+
+
+
+2016-05-09T09:23:11.000000Z
+89a99998a5477eb96088f1703a83b266
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+

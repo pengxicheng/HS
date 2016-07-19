@@ -1,0 +1,52 @@
+8
+
+dir
+15061
+https://peng_xc@192.168.40.251:18181/svn/coding/app/IOS/HengStars/HengStars/Assets.xcassets
+https://peng_xc@192.168.40.251:18181/svn/coding
+
+
+
+2016-05-11T06:19:09.464375Z
+14407
+peng_xc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a770151-4c53-d547-a33a-945e3f6a713f
+
+Brand Assets.launchimage
+dir
+
+Contents.json
+file
+
+
+
+
+2016-05-09T09:23:19.000000Z
+31cc68f34934a99c0b0c1bebde56309c
+2016-05-09T09:22:39.734296Z
+14351
+peng_xc
+
+LaunchImage.launchimage
+dir
+
+AppIcon.appiconset
+dir
+
+FMGAVPlayer
+dir
+
